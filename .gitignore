@@ -1,0 +1,5 @@
+# Only config-example.js should be in the repo
+config.js
+
+dynamodb_local*
+node_modules
